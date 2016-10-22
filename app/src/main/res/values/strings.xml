@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Practice Adapter</string>
+    <string name="home">Home</string>
+    <string name="student_list">Students List</string>
+    <string name="teacher_list">Lecturers List</string>
+    <string name="add_student">Add Student</string>
+    <string name="edit_student">Edit Student</string>
+</resources>
